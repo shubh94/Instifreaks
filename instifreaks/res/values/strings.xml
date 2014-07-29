@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">instifreaks</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nextlecture">Next Lecture</string>
+    <string name="courseName">Course Name</string>
+    <string name="updateInformation">Update Information</string>
+    <string name="timingCourse">Timing</string>
+    <string name="infoCourse">Course Name</string>
+    <string name="textCourse">course name</string>
+    <string name="infoTiming">Lecture start time</string>
+    <string name="infoDuration">Duration</string>
+    <string name="infoContact">Contacts</string>
+    <string name="infoFriends">contacts of friends enrolled in same course</string>
+    <string name="infoUpdateCourse">Update Course Information</string>
+    <string name="day">Lecture Days</string>
+    <string name="infoMon">Monday</string>
+    <string name="infoTue">Tuesday</string>
+    <string name="infoWed">Wednesday</string>
+    <string name="infoThur">Thursday</string>
+    <string name="infoFri">Friday</string>
+    <string name="lectDays">Mon, Tue, Wed, Thur, Fri</string>
+
+</resources>
